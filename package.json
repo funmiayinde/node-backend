@@ -30,7 +30,7 @@
     "express-upload": "^0.1.0",
     "faker": "^4.1.0",
     "fs": "0.0.1-security",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "mkdirp": "^0.5.1",
     "mongoose": "^5.3.14",
